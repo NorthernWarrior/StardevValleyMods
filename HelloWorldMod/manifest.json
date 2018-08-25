@@ -1,0 +1,15 @@
+﻿{
+  "Name": "HelloWorldMod",
+  "Author": "Northern Warrior",
+  "Version": "0.0.1",
+  "Description": "This mod just prints Hello World when you press space.",
+  "UniqueID": "NorthernWarrior.HelloWorldMod",
+  "EntryDll": "HelloWorldMod.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "Platonymous.Toolkit"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Name": "FreezeTimeInMenusMultiplayer",
+  "Author": "Northern Warrior",
+  "Version": "0.0.1",
+  "Description": "This mod freezes time when a menu is open in multiplayer mode.",
+  "UniqueID": "NorthernWarrior.FreezeTimeInMenusMultiplayer",
+  "EntryDll": "FreezeTimeInMenusMultiplayer.dll",
+  "MinimumApiVersion": "2.0",
+  "UpdateKeys": []
+}
